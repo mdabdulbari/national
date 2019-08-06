@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 3fd765dddfdcf9be0bae798fb7a7c7267640f6eb204b5c7e97f5ec08c6e896a4
+  ignore_detectors: []
